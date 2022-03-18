@@ -141,11 +141,11 @@ async def start_flash():
             print("Booting Up The Client 1")
             await idk.start()
             botme = await idk.get_me()
-            await idk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await idk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await idk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await idk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await idk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await idk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await idk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await idk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await idk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await idk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -167,11 +167,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 2")
             await ydk.start()
-            await ydk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ydk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ydk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await ydk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -195,11 +195,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 3")
             await  wdk.start()
-            await wdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await wdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -223,11 +223,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 4")
             await hdk.start()
-            await hdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await hdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await hdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await hdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -251,11 +251,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 5")
             await sdk.start()
-            await sdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await sdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -279,11 +279,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 6")
             await adk.start()
-            await adk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await adk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await adk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await adk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await adk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await adk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await adk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await adk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await adk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await adk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await adk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -307,11 +307,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -336,11 +336,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 8")
             await cdk.start()
-            await cdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await cdk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await cdk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await cdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -364,11 +364,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 9")
             await ddk.start()
-            await ddk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ddk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ddk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await ddk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -393,11 +393,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 10")
             await edk.start()
-            await edk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await edk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await edk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await edk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await edk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await edk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await edk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await edk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await edk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await edk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await edk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -422,11 +422,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 11")
             await vkk.start()
-            await vkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await vkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await vkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await vkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -451,11 +451,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 12")
             await kkk.start()
-            await kkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await kkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await kkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await kkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -480,11 +480,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 13")
             await lkk.start()
-            await lkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await lkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await lkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await lkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -509,11 +509,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 14")
             await mkk.start()
-            await mkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await mkk(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await mkk(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await mkk.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -538,11 +538,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 15")
             await sid.start()
-            await sid(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sid(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sid(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sid(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await sid(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await sid(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sid(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sid(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sid(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await sid(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await sid.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -568,11 +568,11 @@ async def start_flash():
             print("Booting Up The Client 16")
             await shy.start()
             botme = await shy.get_me()
-            await shy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await shy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -595,11 +595,11 @@ async def start_flash():
             print("Booting Up The Client 17")
             await aan.start()
             botme = await aan.get_me()
-            await aan(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aan(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aan(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aan(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aan(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await aan(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aan(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aan(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aan(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aan(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -622,11 +622,11 @@ async def start_flash():
             print("Booting Up The Client 18")
             await ake.start()
             botme = await ake.get_me()
-            await ake(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ake(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ake(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ake(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await ake(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await ake(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ake(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ake(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ake(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await ake(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -649,11 +649,11 @@ async def start_flash():
             print("Booting Up The Client 19")
             await eel.start()
             botme = await eel.get_me()
-            await eel(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eel(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eel(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eel(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eel(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await eel(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eel(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eel(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eel(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eel(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -676,11 +676,11 @@ async def start_flash():
             print("Booting Up The Client 20")
             await khu.start()
             botme = await khu.get_me()
-            await khu(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await khu(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await khu(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await khu(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await khu(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await khu(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await khu(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await khu(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await khu(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await khu(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -703,11 +703,11 @@ async def start_flash():
             print("Booting Up The Client 21")
             await shi.start()
             botme = await shi.get_me()
-            await shi(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shi(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shi(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shi(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await shi(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await shi(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shi(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shi(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shi(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await shi(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -730,11 +730,11 @@ async def start_flash():
             print("Booting Up The Client 22")
             await yaa.start()
             botme = await yaa.get_me()
-            await yaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await yaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await yaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -757,11 +757,11 @@ async def start_flash():
             print("Booting Up The Client 23")
             await dav.start()
             botme = await dav.get_me()
-            await dav(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await dav(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await dav(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await dav(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await dav(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await dav(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await dav(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await dav(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await dav(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await dav(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -784,11 +784,11 @@ async def start_flash():
             print("Booting Up The Client 24")
             await raj.start()
             botme = await raj.get_me()
-            await raj(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await raj(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await raj(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await raj(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await raj(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await raj(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await raj(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await raj(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await raj(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await raj(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -811,11 +811,11 @@ async def start_flash():
             print("Booting Up The Client 25")
             await put.start()
             botme = await put.get_me()
-            await put(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await put(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await put(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await put(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await put(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await put(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await put(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await put(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await put(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await put(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -838,11 +838,11 @@ async def start_flash():
             print("Booting Up The Client 26")
             await eag.start()
             botme = await eag.get_me()
-            await eag(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eag(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eag(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eag(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await eag(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await eag(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eag(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eag(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eag(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await eag(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
         except Exception as e:
@@ -864,11 +864,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 27")
             await gle.start()
-            await gle(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await gle(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await gle(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await gle(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await gle(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await gle(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await gle(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await gle(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await gle(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await gle(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await gle.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -892,11 +892,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 28")
             await wal.start()
-            await wal(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wal(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wal(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wal(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await wal(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await wal(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wal(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wal(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wal(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await wal(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await wal.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -920,11 +920,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 29")
             await aaa.start()
-            await aaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await aaa(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await aaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await aaa(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await aaa.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -948,11 +948,11 @@ async def start_flash():
         try:
             print("Booting Up The Client 30")
             await boy.start()
-            await boy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await boy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await boy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await boy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
-            await boy(functions.channels.JoinChannelRequest(channel="@CHAT_INJECTOR7H"))
+            await boy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await boy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await boy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await boy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
+            await boy(functions.channels.JoinChannelRequest(channel="@@Team_dominatorchat"))
             botme = await boy.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SMEX_USERS.append(botid)
@@ -1643,7 +1643,7 @@ async def abuse(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in flash:
-                text = f"I can't abuse @FLASH_7H's Owner"
+                text = f"I can't abuse @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -1853,7 +1853,7 @@ async def addecho(event):
             reply_msg = await event.get_reply_message()
             user_id = reply_msg.sender_id
             if int(user_id) in FlashX:
-                    text = f"I can't echo @FLASH_7H's Owner"
+                    text = f"I can't echo @BEINGHEROX's Owner"
                     await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SMEX_USERS:
                     text = f"This guy is a sudo user."
@@ -2059,7 +2059,7 @@ async def dm(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in FlashX:
-                text = f"I can't Dm to @Flash_7h's Owner"
+                text = f"I can't Dm to @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2074,7 +2074,7 @@ async def dm(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in FlashX:
-                text = f"I can't Dm to @Flash_7h's Owner"
+                text = f"I can't Dm to @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2131,7 +2131,7 @@ async def dmraid(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in FlashX:
-                text = f"I can't raid on @Flash_7H's Owner"
+                text = f"I can't raid on @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2150,7 +2150,7 @@ async def dmraid(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in FlashX:
-                text = f"I can't raid on @Flash_7h's Owner"
+                text = f"I can't raid on @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2210,7 +2210,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in FlashX:
-                text = f"I can't Dm To @Flash_7h's Owner"
+                text = f"I can't Dm To @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2228,7 +2228,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in FlashX:
-                text = f"I can't Dm To @Flash_7h's Owner"
+                text = f"I can't Dm To @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2247,7 +2247,7 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in FlashX:
-                text = f"I can't Dm To @Flash_7h's Owner"
+                text = f"I can't Dm To @BEINGHEROX's Owner"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SMEX_USERS:
                 text = f"This guy is a sudo user."
@@ -2385,7 +2385,7 @@ async def get_users(event):
     if event.sender_id in SMEX_USERS:
         Nobi = event.text[11:]
         flash = Nobi.lower()
-        restricted = ["@Chat_injector7h", "@Injector_7H", "@Xlr8Cheats_Chat"]
+        restricted = ["@@Team_dominatorchat", "@Injector_7H", "@Xlr8Cheats_Chat"]
         flax = await event.reply("__Inviting members __")
         if flash in restricted:
             await flax.edit("You can't Invite Members from there.")
@@ -2457,7 +2457,7 @@ async def delay(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in FlashX:
-                    text = f"I can't raid on @Flash_7h's Owner"
+                    text = f"I can't raid on @BEINGHEROX's Owner"
                     await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) in SMEX_USERS:
                     text = f"This guy is a sudo user."
@@ -2478,7 +2478,7 @@ async def delay(event):
                b = await event.client.get_entity(a.sender_id)
                e = b.id
                if int(e) in FlashX:
-                       text = f"I can't raid on @Flash_7h's Owner"
+                       text = f"I can't raid on @BEINGHEROX's Owner"
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) in SMEX_USERS:
                        text = f"This guy is a sudo user."
@@ -2697,8 +2697,8 @@ async def help(e):
     
         
 text = """
- 𝙂𝙤 𝘿𝙤 .𝙥𝙞𝙣𝙜 𝙖𝙩 @CHAT_INJECTOR7H
-𝗕𝗬 @FLASH_7H """
+ 𝙂𝙤 𝘿𝙤 .𝙥𝙞𝙣𝙜 𝙖𝙩 @@Team_dominatorchat
+𝗕𝗬 @BEINGHEROX """
 
 print(text)
 print("")
